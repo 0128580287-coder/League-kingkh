@@ -1,9 +1,0 @@
-{
-  "name": "League Kingkh - دوري الحريفة",
-  "short_name": "Kingkh League",
-  "start_url": "/League-kingkh/",
-  "display": "standalone",
-  "background_color": "#0a0a0a",
-  "theme_color": "#eab308",
-  "icons": [{"src": "https://cdn-icons-png.flaticon.com/512/53/53283.png","sizes": "512x512","type": "image/png"}]
-}
